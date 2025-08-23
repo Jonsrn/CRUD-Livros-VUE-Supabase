@@ -4,6 +4,9 @@ Este repositório contém um projeto de catálogo de livros com frontend em Vue 
 
 Este README fornece instruções passo-a-passo para instalar, configurar e executar o projeto no Windows (PowerShell), além de seções específicas para colocar prints das páginas da aplicação.
 
+## Link do vídeo de Explicação + Demonstração
+https://youtu.be/TsJWLfUrdTY
+
 ## Sumário
 
 - Visão geral
